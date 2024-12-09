@@ -1,7 +1,7 @@
 Switch W11 desktop Left
-M0: {+KC_LCTL}{+KC_LGUI}{-KC_LGUI}{-KC_LCTL}{+KC_LEFT}{-KC_LEFT}
+M0: {+KC_LCTL}{+KC_LGUI}{+KC_LEFT}{-KC_LGUI}{-KC_LCTL}{-KC_LEFT}
 Switch W11 desktop Right
-M1: {+KC_LCTL}{+KC_LGUI}{-KC_LGUI}{-KC_LCTL}{+KC_RGHT}{-KC_RGHT}
+M1: {+KC_LCTL}{+KC_LGUI}{+KC_RGHT}{-KC_LGUI}{-KC_LCTL}{-KC_RGHT}
 Lock Screen
 M2: {+KC_LGUI}{+KC_L}{-KC_L}
 Start Visual Code
